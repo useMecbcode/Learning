@@ -26,7 +26,7 @@
 //    auto iter = vec.begin();
 //    iter = std::next(iter);
 //    std::next_permutation(vec.begin(), vec.end());
-//    std::cout << *iter << std::endl;
+//    std::cout << *iter << std::endl;000
 //    std::cout << OneWeekLeetCode::problem_sets::question_01() << std::endl;
 //    auto ans = OneWeekLeetCode::problem_sets::question_02();
 //    std::for_each(ans.cbegin(), ans.cend(), [](int value) { std::cout << value << " "; });
